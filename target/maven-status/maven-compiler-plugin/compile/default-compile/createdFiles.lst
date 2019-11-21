@@ -1,0 +1,3 @@
+com\rahul\app\ws\controller\UserController.class
+com\rahul\app\ws\MobileAppWsApplication.class
+com\rahul\app\ws\model\response\UserResponse.class
